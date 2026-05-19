@@ -1,4 +1,4 @@
-# 
+# smart bot de trading de Deribit ejecutor es el mejor bot de trading de Deribit ejecutor con gestión de apalancamiento y stop-loss. Seguro, confiable y optimizado para estrategias
 
 
 
